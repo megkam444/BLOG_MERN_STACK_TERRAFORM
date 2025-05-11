@@ -1,6 +1,6 @@
 infrastructure/.terraform/
-infrastructure/*.tfstate
-infrastructure/*.tfstate.backup
+# infrastructure/*.tfstate
+# infrastructure/*.tfstate.backup
 infrastructure/crash.log
 infrastructure/*.tfvars
 infrastructure/override.tf
