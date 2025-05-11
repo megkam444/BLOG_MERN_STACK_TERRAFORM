@@ -7,5 +7,5 @@ infrastructure/override.tf
 infrastructure/override.tf.json
 infrastructure/*_override.tf
 infrastructure/*_override.tf.json
-infrastructure/.terraform.lock.hcl
+# infrastructure/.terraform.lock.hcl
 
