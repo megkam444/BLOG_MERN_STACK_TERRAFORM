@@ -8,4 +8,5 @@ infrastructure/override.tf.json
 infrastructure/*_override.tf
 infrastructure/*_override.tf.json
 # infrastructure/.terraform.lock.hcl
-
+/node_modules
+/package-lock.json
