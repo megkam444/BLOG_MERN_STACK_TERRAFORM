@@ -9,4 +9,3 @@ infrastructure/*_override.tf
 infrastructure/*_override.tf.json
 infrastructure/.terraform.lock.hcl
 infrastructure/generated-key.pem
-infrastructure/creds.tfvars
